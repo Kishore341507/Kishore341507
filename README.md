@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xQs2KKFWXd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/choudhary341507)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xQs2KKFWXd) [![Kishore](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/choudhary341507)
 
 <h3 align="left">Languages and Tools:</h3>
 
