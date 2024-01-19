@@ -1,4 +1,4 @@
-<img align="center" src="https://tickap.com/static/images/gitbanner.png">
+<img align="center" src="https://tickap.com/static/images/git-banner.png">
 <h1 align="center">Hi 👋, I'm <a href="#">Kishore</a></h1>
 <h3 align="center">A Passionate Python and Full Stack Web Developer</h3>
 
