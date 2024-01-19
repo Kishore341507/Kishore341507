@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamal <b>Kishore</b></h1>
+<h1 align="center">Hi 👋, I'm Kamal <a href="#">Kishore</a></h1>
 <h3 align="center">A Passionate Python and Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore341507&label=Profile%20views&color=0e75b6&style=flat" alt="kishore341507" /> </p>
@@ -24,5 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore341507&show_icons=true&theme=radical&locale=en&layout=compact" alt="kishore341507" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore341507&show_icons=true&theme=radical&locale=en" alt="kishore341507" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore341507&theme=radical" alt="kishore341507" /></p>
