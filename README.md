@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore341507&label=Profile%20views&color=0e75b6&style=flat" alt="kishore341507" /> </p>
 
-- 🔭 I’m currently working on [TickAp](https://tickap.com/api)
+- 🔭 I’m currently working on [TickAp](https://tickap.com)
 
 - 🌱 I’m currently learning **DevOps**
 
