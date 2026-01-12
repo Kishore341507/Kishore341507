@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Django , ReactJS**
 
-- 📫 How to reach me **choudhary341507@gmail.com**
+- 📫 How to reach me **https://kamalkishore.me**
 
 <h3 align="left">Connect with me:</h3>
 
