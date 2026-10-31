@@ -31,7 +31,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=flat&logo=salesforce&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+### 📊 GitHub Stats
+ 
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore341507&theme=radical&layout=compact&hide_border=true" alt="Top languages" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore341507&theme=radical&hide_border=true" alt="Streak" />
+<a href="https://github.com/Kishore341507"><img height="165" src="https://github-stats-extended.vercel.app/api?username=Kishore341507&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged_percentage,prs_reviewed" alt="Kishore's GitHub stats" /></a>
+<a href="https://github.com/Kishore341507"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kishore341507&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top languages" /></a>
 </p>
